@@ -11,8 +11,7 @@ The application dynamically loads:
 
 Everything is presented with a Star Wars-themed design.
 
-![App Screenshot](assets/screenshots/demo.png)  
-*(Insert a project screenshot here)*
+
 
 ---
 
