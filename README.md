@@ -82,12 +82,12 @@ The application uses a thematic color palette to capture the Star Wars spirit:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/star-wars-data-viewer.git
+   git clone https://github.com/hughguzman/CTD.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd star-wars-data-viewer
+   cd CTD
    ```
 
 3. Open the `index.html` file in a browser:
@@ -135,10 +135,9 @@ Contributions are always welcome! If you find issues or wish to add new features
 
 ## 👾 Author
 
-**Your Name**  
-🌐 [Portfolio](https://yourportfolio.com)  
-🐦 [Twitter](https://twitter.com/yourprofile)  
-📧 Email: youremail@example.com
+**Hugh Guzman**  
+🌐 [Portfolio]((https://github.com/hughguzman))  
+📧 Email: hg.guzman23@gmail.com
 
 May the Force be with you! ✨
 
